@@ -77,7 +77,6 @@ This project applies multiple regression models to predict stress and emotional 
 
 ```
 stress-affect-regression/
-├── data/                  # Raw WESAD data (downloaded externally)
 ├── data.csv               # Sample preprocessed data
 ├── code.py                # Preprocessing + model training code
 ├── README.md              # Project documentation
